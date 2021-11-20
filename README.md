@@ -1,3 +1,4 @@
+[![pipeline status](https://gitlab.com/felipe04coutinho/cypress-basico/badges/main/pipeline.svg)](https://gitlab.com/felipe04coutinho/cypress-basico/-/commits/main)
 <h1 align="center">
   Cypress Básico
 </h1>
