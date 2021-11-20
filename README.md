@@ -7,7 +7,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp; • &nbsp;
   <a href="#-como-executar-o-projeto">Como executar</a>&nbsp; • &nbsp;
   <a href="#-autor">Autor</a>&nbsp; • &nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <br>
