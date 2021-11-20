@@ -1,0 +1,14 @@
+{
+  "name": "cypress-basico",
+  "version": "1.0.0",
+  "description": "Curso de Cypress Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Felipe Coutinho",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
